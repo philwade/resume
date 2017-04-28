@@ -1,36 +1,43 @@
-<div style="margin: 0 25%">
-Hi, my name is Phil Wade and I've been building things for the web for about ten years.
-Right now I'm happiest building applications on the front end with Javascript, mainly using
-Angular and React, but I'm also glad to work on the backend side of things. Most of my server side
-experience is with PHP, but I've worked with .NET and Python and I'm confident I can adapt to almost any
-MVC framework. I'm also comfortable writing CSS and working with the ops and deployment side of the things.
+<style>
+	body {
+		margin: 0 25%;
+	}
+</style>
+Hi, my name is Phil Wade and I've been building things professionally on the web for ten years.
+Right now I'm happiest building applications for the front end with Javascript using React or Angular, but I'm glad to work on the backend side of things as well.
+Most of my server side experience is with PHP, but I've worked with .NET and Python and I'm confident I can adapt to almost any
+MVC framework. I'm also comfortable writing CSS and working with the ops and deployment side of the things. In my free time, I've been excited by functional programming
+with Elm and Haskell.
 
-# Work Experience
+For some personal projects, please look at my github: <a href="https://github.com/philwade">github.com/philwade</a>
 
-## Studiolabs, Senior Full Stack Developer, 2016-present
-- Building Wordpress stuff
-- Aws
-- Preact
-- Angular
-- Laravel
-- Lots of projects
+You can contact me at <a href="mailto:phil@philwade.org">phil@philwade.org</a>
 
-## Nerve, UX/UI Frontend Developer
-- Flux
-- Angular
-- API
+## Work
 
-## Harris Local Government
-- Government
+### Studiolabs, Senior Full Stack Developer, (March 2016-present)
+- Spent nine months embedded on a remote team building Preact components
+- Restructured a client site to take advantage of AWS elastic beanstalk service to meet varying performance demands
+- Scoped, built and deployed sites for clients ranging from simple wordpress installations to API driven single page apps
+- Worked with junior developers, both hands on and through code review to properly build client sites
 
-## Synacor
-- unit tests
+### Nerve, UX/UI Frontend Developer (November 2015-March 2016)
+- Worked on an angular UI for a complex media search engine
+- Worked on a video annotation tool based on angular and the flux architecture
+- Maintained an existing PHP API, increasing test coverage and adding new functionality
 
-## Sparknotes
-- rebuilding
+### Harris Local Government, Web Developer/Technical Lead (October 2014-November 2015)
+- Lead a team of junior developers, delegating tasks and providing guidance through in depth discussions and feedback
+- Ran scrum meetings and acted as a technical delegate to the product team for creating tasks
+- Development work on new and legacy products that interfaced with a complex onsite desktop application
 
-# Open Source
+### Synacor, Senior Software Engineer (June 2012-September 2014)
+- Actively developed the internal framework, adding new features like webfont support, unit test utilities and dependency management
+- Did development on a few internal publishing tools built in Javascript
 
-# Education
+### Sparknotes, Web Developer (June 2007-June 2012)
+- Rebuilt a primarily Perl site using the Symfony PHP framework and backed by an XML database and wordpress
+- Wrote tooling to automate deployments and minimize human error
+
+## Education
 BA Math/Computer Science, SUNY Purchase College, 2007
-</div>
