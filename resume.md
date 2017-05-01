@@ -1,11 +1,11 @@
-<span style="float: right;">
+<div style="float: right;">
 <a href="mailto:phil@philwade.org">phil@philwade.org</a>
-</span>
+</div>
 
 # Phil Wade
 Hi, my name is Phil Wade and I've been building things professionally on the web for ten years.
 Right now I'm happiest on the front end with Javascript, using React or Angular, but I'm glad to work on the back end side of things.
-Most of my server side experience is with PHP and I've built things with .NET (C#) and Python.
+Most of my server side experience is with PHP. Additionally, I've written things with .NET (C#) and Python and adapted to several MVC frameworks.
 I'm also comfortable writing CSS and with operations and deployment tasks. In my free time, I've been learning as much as I can
 about functional programming.
 
@@ -17,12 +17,12 @@ For some personal projects please look at my github: <a href="https://github.com
 - Spent nine months embedded on a remote team building Preact components
 - Restructured a client site to take advantage of the AWS Elastic Beanstalk service to meet varying performance demands
 - Scoped, built, and deployed sites for clients ranging from simple Wordpress installations to API driven single page apps in Angular
-- Mentored junior developers both hands on and through code review to properly build client sites
+- Mentored junior developers both hands on and through code review about best practices and approaches
 
 ### Nerve, UX/UI Frontend Developer (November 2015-March 2016)
 - Worked on an Angular UI for a complex media search engine using the flux architecture
 - Helped build a video annotation tool based on Angular
-- Maintained an existing PHP API increasing test coverage and adding new functionality
+- Maintained an existing PHP API, increasing test coverage and adding new functionality
 
 ### Harris Local Government, Web Developer/Technical Lead (October 2014-November 2015)
 - Lead a team of junior developers by delegating tasks and providing guidance through in depth discussions and feedback
