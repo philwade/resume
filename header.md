@@ -1,4 +1,4 @@
-<title>Phil Wade</title>
+% Phil Wade
 <style>
 	/*
 		Inline styles! Oh no! Since the source file generates both this page and a pdf, I'm trying to keep things simple.
