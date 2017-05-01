@@ -1,8 +1,5 @@
-<div style="float: right;">
-<a href="mailto:phil@philwade.org">phil@philwade.org</a>
-</div>
-
 # Phil Wade
+
 Hi, my name is Phil Wade and I've been building things professionally on the web for ten years.
 Right now I'm happiest on the front end with Javascript, using React or Angular, but I'm glad to work on the back end side of things.
 Most of my server side experience is with PHP. Additionally, I've written things with .NET (C#) and Python and adapted to several MVC frameworks.
@@ -10,6 +7,8 @@ I'm also comfortable writing CSS and with operations and deployment tasks. In my
 about functional programming.
 
 For some personal projects please look at my github: <a href="https://github.com/philwade">github.com/philwade</a>
+
+You can email me at: <a href="mailto:phil@philwade.org">phil@philwade.org</a>
 
 ## Work
 
